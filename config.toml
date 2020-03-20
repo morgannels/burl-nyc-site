@@ -1,4 +1,4 @@
-baseURL                          = "http://burl.yc/"  # Your domain name. Must end with "/"
+baseURL                          = "http://burl.nyc/"  # Your domain name. Must end with "/"
 theme                            = "introduction"
 title                            = "Burl.NYC"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
